@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "name": "Shinha",
+            "transaction_log": [
+                {
+                    "ticker": "AAPL",
+                    "type": "buy",
+                    "date": 20140212,
+                    "shares": 25
+                },
+                {
+                    "ticker":"MSFT",
+                    "type": "buy",
+                    "date": 20150212,
+                    "shares": 12
+                },
+                {
+                    "ticker": "NVDA",
+                    "type": "buy",
+                    "date": 20151212,
+                    "shares": 10
+                },
+                {
+                    "ticker":"MSFT",
+                    "type": "sell",
+                    "date": 20170101,
+                    "shares": 12
+                },
+                {
+                    "ticker":"NVDA",
+                    "type": "sell",
+                    "date": 20170822,
+                    "shares": 5
+                } 
+            ]
+        }
+    ]
+}
